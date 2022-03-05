@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Seyfullah</h1>
 <h3 align="center">Currently learning Game development.</h3>
 
-- 🌱 I’m currently learning **C#,Unity,Unreal Engine**
+- 🌱 I’m currently learning **C#,Unity**
 
 - 📫 How to reach me **s.enesyilmaz1@gmail.com**
 
