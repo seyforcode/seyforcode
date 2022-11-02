@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://twitter.com/seyfzoned" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="seyfzoned" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/seyfullah-enes-yilmaz-a74024190" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="seyfullah-enes-yilmaz-a74024190" height="30" width="40" /></a>
-<a href="https://instagram.com/seyfzone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="seyfzone" height="30" width="40" /></a>
+<a href="https://instagram.com/senesyilmz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="senesyilmz" height="30" width="40" /></a>
 <a href="https://discord.gg/5279" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="5279" height="30" width="40" /></a>
 </p>
 
