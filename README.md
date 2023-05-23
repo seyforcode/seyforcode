@@ -26,7 +26,7 @@
 
 <p float="center">
 
-  <img  src="https://github-readme-stats.vercel.app/api?username=aoguz1&theme=dracula&count_private=true&hide=issues" alt="A.Oğuz's github stats" />
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=aoguz1&theme=dracula&layout=compact&hide=html,css,hack" alt="ETop Langs" /> 
+  <img  src="https://github-readme-stats.vercel.app/api?username=aoguz1&theme=dracula&count_private=true&hide=issues" alt="S.Enes Yılmaz's github stats" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=seyforcode&theme=dracula&layout=compact&hide=html,css,hack" alt="ETop Langs" /> 
 </p>
 
