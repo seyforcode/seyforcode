@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Seyfullah Enes</h1>
 <h3 align="center">A passionate game developer from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=seyforcode&label=Profile%20views&color=fe5106&style=flat" alt="seyforcode" /> </p>
 
 - 🌱 I’m currently learning **C# and Unity**
 
