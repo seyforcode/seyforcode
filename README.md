@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Seyfullah Enes</h1>
 <h3 align="center">A passionate game developer from Turkey</h3>
 
-
-- 🌱 I’m currently learning **C# and Unity**
-
 - 💬 Ask me anything about **Game Development**
 
 - 📫 How to reach me **s.enesyilmaz1@gmail.com**
